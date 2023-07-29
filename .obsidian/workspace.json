@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faker.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faker.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faker.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faker.md"
+                "file": "README.md"
               }
             }
           }
@@ -155,17 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c196650a89934ad",
+  "active": "a12c010c9173bf0f",
   "lastOpenFiles": [
+    "untitled folder",
+    "Places",
+    "Players",
+    "Players/Faker.md",
     "README.md",
-    "Gllenn Rindell.md",
-    "Ivory.md",
-    "Acelina Water.md",
-    "May.md",
-    "Wayne.md",
-    "Faker.md",
-    "Azul Caldra.md",
-    "Minot.md",
+    "Players/Gllenn Rindell.md",
+    "Players/Ivory.md",
+    "Players/Acelina Water.md",
+    "Players/May.md",
+    "Players/Wayne.md",
+    "Players/Azul Caldra.md",
+    "Places/Minot.md",
     "Mae.md"
   ]
 }

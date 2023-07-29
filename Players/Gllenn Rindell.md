@@ -10,7 +10,6 @@
 | **Biographical information** |                    |
 | ---------------------------- | ------------------ |
 | City of birth                |      [[Minot]]     |
-| Country of birth             |[[Byzantina Empire]]|
 
 | **Physical Characteristics** |                    |
 | ---------------------------- | ------------------ |
@@ -22,9 +21,6 @@
 
 # Overview
 Cleric dude
-
-Was born in [[Minot]]
-
 
 was in a party with [[Azul Caldra]], [[Wayne]], [[Faker]], [[Ivory]], [[Acelina Water]] 
 

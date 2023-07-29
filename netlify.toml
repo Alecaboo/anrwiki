@@ -19,7 +19,7 @@ SITE_TITLE = "Anr wiki"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://64c4ab1ece1ad7403e7f7cad--dainty-eclair-4979e9.netlify.app/"
+SITE_URL = "https://anrwiki.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"

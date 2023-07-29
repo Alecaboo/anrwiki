@@ -1,2 +1,0 @@
-# anrwiki
- wiki for autonorealm

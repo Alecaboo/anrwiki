@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Wayne.md",
+                "file": "Players/Gllenn Rindell.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Wayne.md",
+                "file": "Players/Gllenn Rindell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Wayne.md",
+                "file": "Players/Gllenn Rindell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Wayne.md"
+                "file": "Players/Gllenn Rindell.md"
               }
             }
           }
@@ -157,19 +157,25 @@
   },
   "active": "1c196650a89934ad",
   "lastOpenFiles": [
+    "Players/Lillith Maria.md",
+    "Attachments",
+    "Attachments/Lillith Art.webp",
+    "Places/Norwich Region.md",
+    "Places/Saktar Region.md",
+    "Places/Minot.md",
+    "Saktar Region..md",
+    "Players/Gllenn Rindell.md",
+    "Players/Azul Caldra.md",
+    "Players/Wayne.md",
     "README.md",
     "netlify.toml",
     "untitled folder",
     "Places",
     "Players",
     "Players/Faker.md",
-    "Players/Gllenn Rindell.md",
     "Players/Ivory.md",
     "Players/Acelina Water.md",
     "Players/May.md",
-    "Players/Wayne.md",
-    "Players/Azul Caldra.md",
-    "Places/Minot.md",
     "Mae.md"
   ]
 }

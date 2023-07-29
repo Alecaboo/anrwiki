@@ -1,2 +1,2 @@
 # anrwiki
- Look, it's the wiki for autonorealm, this is a private repo so if you're finding it you should already know
+ It's the wiki for Autonorealm, a textrpg played over Discord. If you know what it is, awesome, if not... move on

@@ -1,0 +1,79 @@
+[build]
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+publish = "public"
+
+[build.environment]
+FOOTER = ""
+GRAPH_LINK_REPLACE = "y"
+GRAPH_OPTIONS = """
+        {
+        	nodes: {
+        		shape: "star",
+        		color: isDark() ? "#8c8e91" : "#dee2e6",
+        		font: {
+        			face: "Inter",
+        			color: isDark() ? "#c9cdd1" : "#616469",
+        			strokeColor: isDark() ? "#c9cdd1" : "#616469",
+        		},
+        		scaling: {
+        			label: {
+        				enabled: true,
+        			},
+        		},
+        	},
+        	edges: {
+        		color: { inherit: "both" },
+        		width: 0.8,
+        		smooth: {
+        			type: "continuous",
+        		},
+        		hoverWidth: 4,
+        	},
+        	interaction: {
+        		hover: true,
+        	},
+        	height: "100%",
+        	width: "100%",
+        	physics: {
+        		solver: "repulsion",
+        	},
+        }
+        """
+HOME_GRAPH = "y"
+LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Have a look?</span>"
+LANDING_DESCRIPTION = "Anr time, baby"
+LANDING_PAGE = "README"
+LANDING_TITLE = "<span class='hvr-grow'>Welcome to the anr wiki</span>"
+LOCAL_GRAPH = "y"
+PAGE_GRAPH = "y"
+PYTHON_VERSION = "3.8"
+REPO_URL = "https://github.com/Alecaboo/anrwiki"
+ROOT_SECTION_NAME = "root"
+SITE_TITLE = "ANR wiki<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
+SITE_TITLE_TAB = "ANR wiki"
+SITE_URL = "https://64c4a4f3460b8a000865a4e1--dainty-eclair-4979e9.netlify.app/"
+SLUGIFY = "y"
+STRICT_LINE_BREAKS = "y"
+TIMEZONE = "Asia/Hong_Kong"
+ZOLA_VERSION = "0.15.2"
+
+[[plugins]]
+package = "netlify-plugin-submit-sitemap"
+
+[plugins.inputs]
+
+# The base url of your site (optional, default = main URL set in Netlify)
+baseUrl = ""
+
+# Path to the sitemap URL (optional, default = /sitemap.xml)
+sitemapPath = "/sitemap.xml"
+
+# Time in seconds to not submit the sitemap after successful submission
+ignorePeriod = 0
+
+# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
+providers = [
+  "google",
+  "bing",
+  "yandex",
+]

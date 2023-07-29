@@ -47,7 +47,7 @@ LANDING_TITLE = "<span class='hvr-grow'>Welcome to the anr wiki</span>"
 LOCAL_GRAPH = "y"
 PAGE_GRAPH = "y"
 PYTHON_VERSION = "3.8"
-REPO_URL = "https://github.com/Alecaboo/anrwiki
+REPO_URL = "https://github.com/Alecaboo/anrwiki"
 ROOT_SECTION_NAME = "root"
 SITE_TITLE = "ANR wiki<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
 SITE_TITLE_TAB = "ANR wiki"

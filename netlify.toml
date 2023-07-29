@@ -81,7 +81,6 @@ package = "netlify-plugin-submit-sitemap"
 [plugins.inputs]
 
 # The base url of your site (optional, default = main URL set in Netlify)
-baseUrl = "https://64c4a4f3460b8a000865a4e1--dainty-eclair-4979e9.netlify.app/"
 
 # Path to the sitemap URL (optional, default = /sitemap.xml)
 sitemapPath = "/sitemap.xml"

@@ -19,12 +19,8 @@
             "id": "1c196650a89934ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minot.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -57,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#saktar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Minot.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,12 +150,12 @@
   },
   "active": "1c196650a89934ad",
   "lastOpenFiles": [
+    "Minot.md",
     "Acelina Water.md",
     "Faker.md",
     "Wayne.md",
     "Ivory.md",
     "Azul Caldra.md",
-    "Minot.md",
     "Gllenn Rindell.md",
     "May.md",
     "Mae.md"
